@@ -1,0 +1,2 @@
+error: UnityEngine.MonoBehaviour:print(Object.base64) the thing you want to instantiate is hidden.
+aGFwcHkgYmlydGhkYXk=
